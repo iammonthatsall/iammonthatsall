@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Raymond Marquez (@iammonthatsall)
-### Full-Stack & Android Developer | Former IT Leader 🚀
+### Full-Stack & Android Developer | Enterprise Systems Expert 🚀
 
-Propesyunal na developer na may malalim na karanasan sa pagbuo ng mga **production-grade enterprise systems**. Binuo ko nang buo (end-to-end) ang isang malaking ticketing platform na kasalukuyang ginagamit sa produksyon, gamit ang native Android (Kotlin) at Web technologies. Backed by **10+ years of solid IT experience** sa systems administration at ERP platforms (SAP/Microsoft Dynamics).
+I am a full-stack developer with a strong operational foundation backed by **10+ years of diverse IT experience** in systems administration and ERP platforms (SAP S/4HANA, Microsoft Dynamics). I specialize in designing and building production-grade enterprise systems end-to-end, bridging the gap between complex operations and modern mobile/web solutions.
 
 ---
 
-### 👀 About Me & Focus
-- 🌍 **What I Do:** I bridge the gap between complex enterprise operations and modern mobile/web solutions.
-- 🚀 **Current Project:** Maintaining and scaling a multi-role Partner Portal & Support Dashboard at JK2L2 Inc.
-- 🌱 **My Focus:** Building highly optimized, cost-efficient, and secure cloud-native applications.
-- 💞️ **Looking to Collaborate on:** Remote or international roles in Full-Stack web development, Android applications, or Open-Source projects.
+### 👀 About Me
+- 🌍 **Focus:** Developing high-performance, cost-efficient, and secure cloud-native applications.
+- 🚀 **Current Role:** Building and scaling a multi-role Partner Portal & Support Dashboard at JK2L2 Inc.
+- 💼 **Career Goal:** Seeking a remote developer role with an innovative international team.
+- 💞️ **Looking to Collaborate on:** Android applications, full-stack web platforms, or open-source software.
 
 ---
 
@@ -43,7 +43,7 @@ Propesyunal na developer na may malalim na karanasan sa pagbuo ng mga **producti
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h4>🏢 Enterprise & Tools</h4>
+      <h4>🏢 Enterprise Platforms & Tools</h4>
       <ul>
         <li>SAP S/4HANA, Microsoft Dynamics NAV</li>
         <li>Git-based workflows, REST-style APIs</li>
@@ -55,16 +55,18 @@ Propesyunal na developer na may malalim na karanasan sa pagbuo ng mga **producti
 
 ---
 
-### 📈 Highlighted Project: Enterprise Support-Ticketing Platform
-*Binuo ko ito mula sa simula (from the ground up) para sa mga distributors, dealers, at internal teams:*
-- **Android App:** May features tulad ng single-device login enforcement (via Firestore transactions), real-time chat na may image attachments, at FCM push notifications.
-- **Web Dashboard:** Single-page dashboard na may role-based access control (RBAC) para sa 6+ internal teams na may status-driven workflows.
-- **Optimization:** Gumamit ng LRU caching at Firestore snapshot listeners na may cursor-based pagination upang mapababa ang read costs.
+### 📈 Featured Production Project
+#### **Enterprise Support-Ticketing Platform (End-to-End)**
+*Designed and built from the ground up for distributors, dealers, installers, and internal teams (6+ roles).*
+
+- **Partner Portal (Android App & Web Dashboard):** Implemented single-device login enforcement via Firestore transactions, real-time ticket scope filtering, in-app chat with image attachments, and FCM push notifications with Android 13+ permission handling.
+- **Internal Support Dashboard (Web):** Built a responsive single-page dashboard using HTML5 and TailwindCSS featuring role-based access control, status-driven workflows, and cross-team ticket transfers.
+- **Cloud Optimization:** Created efficient Firestore Security Rules, wrote server-side Cloud Functions, and deployed LRU caching alongside cursor-based pagination to dramatically cut cloud read costs.
 
 ---
 
 ### 📫 Connect with Me
 - 📧 **Email:** [iammonthatsall07@gmail.com](mailto:iammonthatsall07@gmail.com)
-- 📱 **Phone/WhatsApp:** [+63 975 524 8547](tel:+639755248547)
-- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com) *(Palitan mo ito ng iyong username)*
+- 📱 **Phone / WhatsApp:** [+63 975 524 8547](tel:+639755248547)
+- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com) *(Replace with your actual handle)*
 
