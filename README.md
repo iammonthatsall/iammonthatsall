@@ -66,7 +66,6 @@ I am a full-stack developer with a strong operational foundation backed by **10+
 ---
 
 ### 📫 Connect with Me
-- 📧 **Email:** [iammonthatsall07@gmail.com](mailto:iammonthatsall07@gmail.com)
+- 📧 **Email:** [iammonthatsall07@gmail.com](mailto:ceed666.mon07@gmail.com)
 - 📱 **Phone / WhatsApp:** [+63 975 524 8547](tel:+639755248547)
-- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com) *(Replace with your actual handle)*
 
