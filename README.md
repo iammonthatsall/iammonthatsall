@@ -41,8 +41,3 @@ An enterprise-grade ticketing and support ecosystem built from scratch and activ
 *   💼 Open to: **Local, Remote, and International Software Engineering Roles**
 
 ---
-
-<p align="center">
-  <img src="https://vercel.app" alt="Raymond's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Raymond's Top Languages" height="180px" />
-</p>
