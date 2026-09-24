@@ -43,5 +43,6 @@ An enterprise-grade ticketing and support ecosystem built from scratch and activ
 ---
 
 <p align="center">
-  <img src="https://vercel.app" alt="Raymond's GitHub Stats" />
+  <img src="https://vercel.app" alt="Raymond's GitHub Metrics" />
 </p>
+
