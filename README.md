@@ -1,71 +1,47 @@
-# 👋 Hi, I'm Raymond Marquez (@iammonthatsall)
-### Full-Stack & Android Developer | Enterprise Systems Expert 🚀
+# Hi there, I'm Raymond Gopo Marquez! 👋
 
-I am a full-stack developer with a strong operational foundation backed by **10+ years of diverse IT experience** in systems administration and ERP platforms (SAP S/4HANA, Microsoft Dynamics). I specialize in designing and building production-grade enterprise systems end-to-end, bridging the gap between complex operations and modern mobile/web solutions.
-
----
-
-### 👀 About Me
-- 🌍 **Focus:** Developing high-performance, cost-efficient, and secure cloud-native applications.
-- 🚀 **Current Role:** Building and scaling a multi-role Partner Portal & Support Dashboard at JK2L2 Inc.
-- 💼 **Career Goal:** Seeking a remote developer role with an innovative international team.
-- 💞️ **Looking to Collaborate on:** Android applications, full-stack web platforms, or open-source software.
+### Versatile Full-Stack & Android Developer | Enterprise Systems Veteran
+I am a Software Engineer with **10+ years of diverse IT, systems administration, and enterprise platform experience** (SAP S/4HANA, Microsoft Dynamics). I specialize in independently architecting, building, and shipping production-ready mobile and web ecosystems that solve complex, real-world business workflows.
 
 ---
 
-### 🛠️ Technical Skills
+## 🚀 Featured Project: S2S Partner Support Platform
+An enterprise-grade ticketing and support ecosystem built from scratch and actively running in production.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>📱 Mobile Development</h4>
-      <ul>
-        <li>Kotlin, Android SDK (Jetpack, Coroutines)</li>
-        <li>ViewBinding, Lifecycle, ViewPager2</li>
-        <li>Glide, PhotoView, ProGuard/R8</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4>💻 Backend & Cloud</h4>
-      <ul>
-        <li>Firebase (Firestore, Auth, RTDB, Storage)</li>
-        <li>Cloud Functions, FCM (Push Notifications)</li>
-        <li>Firestore Security Rules & Emulator Suite</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🌐 Frontend Web</h4>
-      <ul>
-        <li>JavaScript (ES6+), HTML5, CSS3</li>
-        <li>TailwindCSS, Single-Page Dashboards</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4>🏢 Enterprise Platforms & Tools</h4>
-      <ul>
-        <li>SAP S/4HANA, Microsoft Dynamics NAV</li>
-        <li>Git-based workflows, REST-style APIs</li>
-        <li>Technical Documentation & Training</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+*   **📱 S2S Android Client:** Native Kotlin app featuring full ticket lifecycles, real-time 1-to-1 chat with image sharing, action-driven FCM push notifications, Forced-Update mechanisms, and R8/ProGuard production hardening. Integrated with native C/C++ via CMake.
+*   **💻 S2S Web Dashboards:** Three role-based single-page frontends (Manager, Partner, Support) built with JavaScript, HTML5, and TailwindCSS featuring resizable live-chat widgets and custom telemetry date-pickers.
+*   **⚙️ S2S Firebase Backend:** Event-driven infrastructure utilizing Firestore triggers, real-time dual-syncing with Realtime Database, automated Nodemailer pipelines, and structured custom logging.
 
 ---
 
-### 📈 Featured Production Project
-#### **Enterprise Support-Ticketing Platform (End-to-End)**
-*Designed and built from the ground up for distributors, dealers, installers, and internal teams (6+ roles).*
+## 🛠️ Technical Toolbox
 
-- **Partner Portal (Android App & Web Dashboard):** Implemented single-device login enforcement via Firestore transactions, real-time ticket scope filtering, in-app chat with image attachments, and FCM push notifications with Android 13+ permission handling.
-- **Internal Support Dashboard (Web):** Built a responsive single-page dashboard using HTML5 and TailwindCSS featuring role-based access control, status-driven workflows, and cross-team ticket transfers.
-- **Cloud Optimization:** Created efficient Firestore Security Rules, wrote server-side Cloud Functions, and deployed LRU caching alongside cursor-based pagination to dramatically cut cloud read costs.
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Frameworks** | Kotlin, JavaScript (ES6+), Node.js, HTML5, CSS3, TailwindCSS |
+| **Mobile Development** | Android SDK, Jetpack, Material Design, Coroutines, ViewBinding, Lifecycle, CMake/NDK, ProGuard/R8, Glide, ViewPager2 |
+| **Backend & Cloud** | Firebase (Auth, Firestore, Realtime DB, Storage, Cloud Functions, Remote Config, FCM, Emulator Suite), REST APIs |
+| **Enterprise Integration** | SAP S/4HANA (MM Functional Specialist), Microsoft Dynamics NAV, ERP Administration |
+| **Tools & Practices** | Git-based workflows, SDLC Management, Technical Documentation, Technical Training & Coaching |
 
 ---
 
-### 📫 Connect with Me
-- 📧 **Email:** [iammonthatsall07@gmail.com](mailto:ceed666.mon07@gmail.com)
-- 📱 **Phone / WhatsApp:** [+63 975 524 8547](tel:+639755248547)
+## 💼 Why Work With Me?
+*   **Enterprise DNA:** Unlike traditional developers, I spent years working inside large corporate supply chains and IT departments. I design software with data integrity, compliance, and user training in mind from day one.
+*   **Production-Hardened Mindset:** I don't just build apps that work on "my machine." I write code that is minified, secure, optimized for network bandwidth, and tested using emulator suites before deployment.
+*   **Strong Communicator:** My background as a Technical Trainer means I can bridge the gap between technical architecture and non-technical business stakeholders easily.
 
+---
+
+## 📬 Connect with Me
+
+*   📍 Based in: Pasay City, Metro Manila, Philippines (GMT+8)
+*   📧 Email: iammonthatsall07@gmail.com
+*   📞 Mobile: +63 975 524 8547
+*   💼 Open to: **Local, Remote, and International Software Engineering Roles**
+
+---
+
+<p align="center">
+  <img src="https://vercel.app" alt="Raymond's GitHub Stats" />
+</p>
