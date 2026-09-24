@@ -1,7 +1,7 @@
 # Hi there, I'm Raymond Gopo Marquez! 👋
 
 ### Versatile Full-Stack & Android Developer | Enterprise Systems Veteran
-I am a Software Engineer with **10+ years of diverse IT, systems administration, and enterprise platform experience** (SAP S/4HANA, Microsoft Dynamics). I specialize in independently architecting, building, and shipping production-ready mobile and web ecosystems that solve complex, real-world business workflows.
+Versatile Full-Stack & Android Developer with 2+ years of dedicated software development experience, backed by a robust 10-year foundation in enterprise IT ecosystems (SAP, ERP, Systems Support) .
 
 ---
 
