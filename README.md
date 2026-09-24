@@ -1,6 +1,6 @@
 # Hi there, I'm Raymond Gopo Marquez! 👋
 
-### VAndroid & Full-Stack Developer| Enterprise Systems Veteran
+### Android & Full-Stack Developer| Enterprise Systems Veteran
 Android & Full-Stack Developer with 2+ years of professional software development experience, specializing in Kotlin, Android, JavaScript, Firebase, and web-based enterprise applications. Experienced in designing, developing, and deploying production Android applications, role-based web dashboards, and serverless Firebase backends. Also brings 10+ years of broader enterprise IT experience in ERP/SAP systems, technical support, data operations, and technical training.
 
 ---
