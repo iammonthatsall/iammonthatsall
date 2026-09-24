@@ -18,7 +18,7 @@ An enterprise-grade ticketing and support ecosystem built from scratch and activ
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Frameworks** | Kotlin, JavaScript (ES6+), Node.js, HTML5, CSS3, TailwindCSS |
+| **Languages & Frameworks** | Kotlin, JavaScript (ES6+), Node.js, C/C++ (NDK), HTML5, CSS3, TailwindCSS |
 | **Mobile Development** | Android SDK, Jetpack, Material Design, Coroutines, ViewBinding, Lifecycle, CMake/NDK, ProGuard/R8, Glide, ViewPager2 |
 | **Backend & Cloud** | Firebase (Auth, Firestore, Realtime DB, Storage, Cloud Functions, Remote Config, FCM, Emulator Suite), REST APIs |
 | **Enterprise Integration** | SAP S/4HANA (MM Functional Specialist), Microsoft Dynamics NAV, ERP Administration |
@@ -36,13 +36,13 @@ An enterprise-grade ticketing and support ecosystem built from scratch and activ
 ## 📬 Connect with Me
 
 *   📍 Based in: Pasay City, Metro Manila, Philippines (GMT+8)
-*   📧 Email: iammonthatsall07@gmail.com
+*   📧 Email: [iammonthatsall07@gmail.com](mailto:iammonthatsall07@gmail.com)
 *   📞 Mobile: +63 975 524 8547
 *   💼 Open to: **Local, Remote, and International Software Engineering Roles**
 
 ---
 
 <p align="center">
-  <img src="https://vercel.app" alt="Raymond's GitHub Metrics" />
+  <img src="https://vercel.app" alt="Raymond's GitHub Stats" height="180px" />
+  <img src="https://vercel.app" alt="Raymond's Top Languages" height="180px" />
 </p>
-
